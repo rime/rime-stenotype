@@ -2,7 +2,7 @@
 
 配方： ℞ **stenotype**
 
-[Rime](http://rime.im) 打字速記法輸入方案
+[Rime](https://rime.im) 打字速記法輸入方案
 
 由《ABC 簡易速記》所記述的字母式中文速記改編
 
