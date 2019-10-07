@@ -4,7 +4,7 @@
 schema:
   schema_id: stenotype
   name: 打字速記法
-  version: "1.0"
+  version: "1.1"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -83,7 +83,7 @@ speller:
 #    - xform/^r/R/
     - xform/^([bpmf])u$/$1/
     - xform/^([dtnlgkh])e$/$1/
-    - xform/^([jqxZCSRzcs])i/$1/
+    - xform/^([jqxZCSRzcsr])i/$1/
     - xform/^er$/r/
     - xform/(?<![ae])i$/./
     - xform/(?<!o)u$/:/
